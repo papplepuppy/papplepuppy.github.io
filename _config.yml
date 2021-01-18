@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "papplepuppy.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "papplepuppy.name"
+name                     : "papplepuppy"
 description              : "papplepuppy.guthub.io"
 url                      : "https://papplepuppy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "개발자저씨"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/papple-small.jpg"
   bio              : "아직 개발자를 꿈구는 아저씨"
   location         : "South Korea"
   email            : "papplepuppy@gmail.com"
