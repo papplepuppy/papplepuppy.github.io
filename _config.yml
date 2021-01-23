@@ -20,12 +20,12 @@ title                    : "papplepuppy.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "papplepuppy"
-description              : "papplepuppy.guthub.io"
+description              : "https://papplepuppy.guthub.io"
 url                      : "https://papplepuppy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/papple-small.jpg"
-logo                     : "/assets/images/papple-small.jpg"
+logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "개발자저씨"
+  name             : "뎁저씨"
   avatar           : "/assets/images/papple-small.jpg"
-  bio              : "아직 개발자를 꿈구는 아저씨"
+  bio              : "아직 개발자를 꿈꾸는 아저씨"
   location         : "South Korea"
   email            : "papplepuppy@gmail.com"
   links:

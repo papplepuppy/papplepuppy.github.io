@@ -1,13 +1,13 @@
 ---
-title: "이 블로그 설명서"
+title: "응?"
 permalink: /about/
 layout: single
 ---
 
-## papplepuppy.github.io 블로그
+이 블로그는 혼자 끄적거릴 공간입니다.  
+대부분 비공개 포스트를 올릴 것 같네요.  
+아주 가끔 기술적 끄적기림을 남기기도 할 예정입니다.  
+전혀 기대마세요ㅋㅋ
 
-이 블로그는 Github Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 Github Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+github.io를 구성하는 방법은 <https://devinlife.com/howto/>을 참고해보세요.
