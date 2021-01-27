@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "뎁저씨"
+  name             : "papple"
   avatar           : "/assets/images/papple-small.jpg"
-  bio              : "아직 개발자를 꿈꾸는 아저씨"
+  bio              : "아직은 개발자;"
   location         : "South Korea"
   email            : "papplepuppy@gmail.com"
   links:
